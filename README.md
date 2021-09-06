@@ -16,8 +16,6 @@
 
 :small_blue_diamond: [Pré-requesitos](#pré-requesitos)
 
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
-
 :small_blue_diamond: [Arquivos](#Arquivos)
 
 ## Descrição dos Desafios :star:
