@@ -4,7 +4,7 @@
 
 # Dasafio
 
-## Desenvolvedor :octocat:
+## Autor
 
 | [<img src="https://avatars.githubusercontent.com/u/7117011?s=96&v=4" width=115><br><sub>Emmanuel Cordeiro</sub>](https://github.com/ecordeiro) 
 
@@ -16,9 +16,11 @@
 
 :small_blue_diamond: [Pré-requesitos](#pré-requesitos)
 
-:small_blue_diamond: [Arquivos](#Arquivos)
+:small_blue_diamond: [Arquivo](#Arquivo)
 
-## Descrição dos Desafios :star:
+:small_blue_diamond: [Execução](#Execução)
+
+## Descrição dos Desafios:
 
 <p align="justify">
 Desafio 1
@@ -38,6 +40,7 @@ de 1 ano, foi requisitado a você a validação da seguinte hipótese:
 “O churn de novos clientes é maior do que o churn de clientes ativos”
 
 Desafio 2
+  
 Antes de apresentar as análises para a liderança, você decide se reunir com seu colega 
 de trabalho para discutirem os resultados e se estruturarem para a apresentação. No entanto, 
 para isso, é preciso identificar um horário na agenda que seja factível para ambos.
@@ -70,7 +73,23 @@ correspondem aos horários disponíveis para a reunião.
 
 :warning: [seaborn](https://seaborn.pydata.org/installing.html)
 
-## Arquivos
+## Arquivo
 
-[Aqui](https://github.com/ecordeiro/Localiza/blob/master/base_dados/base_teste.csv) é possível visualizar a **arquivo** com os dados utilizados no desafio 1.  
+Visualize [aqui](https://github.com/ecordeiro/Localiza/blob/master/base_dados/base_teste.csv) o **arquivo** com os dados utilizados no desafio 1.  
 
+## Execução
+
+Desafio 1:
+
+Clique <a href="https://colab.research.google.com/drive/1oXKMrNhxt8D1dM_TkUT42S4kbzzYqyv7" target="_blank">aqui</a> para executar o Desafio 1. Com o objetivo de facilitar a execução, disponibilizei o mesmo notebook do github também no google colab.
+
+
+Desafio 2:
+
+<p align="justify">
+O Desafio 2 pode ser execuado através de prompt de comando. Para a construção do algorítimo criei quatro casos de teste e os parâmetros foram inseridos diretamente no <i>main</i>. Utilizei o desenvolvimento dirigido a testes para garantir um bom resultado e uma refatoração adequada.
+  
+**OBS:** Importante instalar a biblioteca pendulum antes da execução do algorítimo.
+</p>
+  
+![image](https://user-images.githubusercontent.com/7117011/132363679-7c6ac3eb-4b1e-412e-ac40-8739655f2d55.png)
