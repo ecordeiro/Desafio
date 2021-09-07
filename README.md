@@ -4,7 +4,7 @@
 
 # Dasafio
 
-## Desenvolvedor :octocat:
+## Desenvolvedor :🤓
 
 | [<img src="https://avatars.githubusercontent.com/u/7117011?s=96&v=4" width=115><br><sub>Emmanuel Cordeiro</sub>](https://github.com/ecordeiro) 
 
