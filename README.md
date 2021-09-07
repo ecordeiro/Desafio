@@ -80,7 +80,7 @@ correspondem aos horários disponíveis para a reunião.
 ## Execução
 
 <p align="justify">
-Para executar o Desafio 1, disponibilizei o mesmo notebook no google colab. Pode ser acessado clicando [aqui]().
+Para executar o Desafio 1, disponibilizei o mesmo notebook no google colab. Pode ser acessado clicando [Aqui](https://drive.google.com/file/d/1oXKMrNhxt8D1dM_TkUT42S4kbzzYqyv7/view?usp=sharing)
 
 O Desafio 2, precisa ser execuado através de prompt de comando. Para a construção do algorítimo inicialmente eu criei quatro casos de teste e os parametros foram inseridos diretamente no main. Utilizei o desenvolviemento dirigido a teste, para garantir um bom resultado e uma refatoração adequada.
   
