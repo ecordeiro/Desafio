@@ -79,7 +79,9 @@ Visualize [aqui](https://github.com/ecordeiro/Localiza/blob/master/base_dados/ba
 
 ## Execução
 
-Clique [aqui](https://colab.research.google.com/drive/1oXKMrNhxt8D1dM_TkUT42S4kbzzYqyv7) para executar o Desafio 1, disponibilizei o mesmo notebook no google colab.
+Clique <a href="https://colab.research.google.com/drive/1oXKMrNhxt8D1dM_TkUT42S4kbzzYqyv7" target="_blank">aqui</a> para executar o Desafio 1, disponibilizei o mesmo notebook no google colab.
+
+
 
 <p align="justify">
 O Desafio 2, precisa ser execuado através de prompt de comando. Para a construção do algorítimo inicialmente eu criei quatro casos de teste e os parametros foram inseridos diretamente no *main*. Utilizei o desenvolviemento dirigido a teste para garantir um bom resultado e uma refatoração adequada.
