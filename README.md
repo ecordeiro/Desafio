@@ -75,15 +75,16 @@ correspondem aos horários disponíveis para a reunião.
 
 ## Arquivo
 
-[Aqui](https://github.com/ecordeiro/Localiza/blob/master/base_dados/base_teste.csv) é possível visualizar a **arquivo** com os dados utilizados no desafio 1.  
+Visualize [aqui](https://github.com/ecordeiro/Localiza/blob/master/base_dados/base_teste.csv) o **arquivo** com os dados utilizados no desafio 1.  
 
 ## Execução
 
-<p align="justify">
-Para executar o Desafio 1, disponibilizei o mesmo notebook no google colab. Pode ser acessado clicando [Aqui](https://drive.google.com/file/d/1oXKMrNhxt8D1dM_TkUT42S4kbzzYqyv7/view?usp=sharing)
+Clique [aqui](https://drive.google.com/file/d/1oXKMrNhxt8D1dM_TkUT42S4kbzzYqyv7/view?usp=sharing) para executar o Desafio 1, disponibilizei o mesmo notebook no google colab.
 
-O Desafio 2, precisa ser execuado através de prompt de comando. Para a construção do algorítimo inicialmente eu criei quatro casos de teste e os parametros foram inseridos diretamente no main. Utilizei o desenvolviemento dirigido a teste, para garantir um bom resultado e uma refatoração adequada.
+<p align="justify">
+O Desafio 2, precisa ser execuado através de prompt de comando. Para a construção do algorítimo inicialmente eu criei quatro casos de teste e os parametros foram inseridos diretamente no *main*. Utilizei o desenvolviemento dirigido a teste para garantir um bom resultado e uma refatoração adequada.
   
-**OBS** Importante instalar a biblioteca pendulum antes da execução do algorítimo.
+**OBS:** Importante instalar a biblioteca pendulum antes da execução do algorítimo.
+</p>
   
 ![image](https://user-images.githubusercontent.com/7117011/132363679-7c6ac3eb-4b1e-412e-ac40-8739655f2d55.png)
