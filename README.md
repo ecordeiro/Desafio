@@ -4,7 +4,7 @@
 
 # Dasafio
 
-## Desenvolvedor :🤓
+## Autor
 
 | [<img src="https://avatars.githubusercontent.com/u/7117011?s=96&v=4" width=115><br><sub>Emmanuel Cordeiro</sub>](https://github.com/ecordeiro) 
 
@@ -20,7 +20,7 @@
 
 :small_blue_diamond: [Execução](#Execução)
 
-## Descrição dos Desafios :star:
+## Descrição dos Desafios:
 
 <p align="justify">
 Desafio 1
@@ -79,12 +79,15 @@ Visualize [aqui](https://github.com/ecordeiro/Localiza/blob/master/base_dados/ba
 
 ## Execução
 
-Clique <a href="https://colab.research.google.com/drive/1oXKMrNhxt8D1dM_TkUT42S4kbzzYqyv7" target="_blank">aqui</a> para executar o Desafio 1, disponibilizei o mesmo notebook no google colab.
+Desafio 1:
+
+Clique <a href="https://colab.research.google.com/drive/1oXKMrNhxt8D1dM_TkUT42S4kbzzYqyv7" target="_blank">aqui</a> para executar o Desafio 1. Com o objetivo de facilitar a execução, disponibilizei o mesmo notebook do github também no google colab.
 
 
+Desafio 2:
 
 <p align="justify">
-O Desafio 2, precisa ser execuado através de prompt de comando. Para a construção do algorítimo inicialmente eu criei quatro casos de teste e os parametros foram inseridos diretamente no *main*. Utilizei o desenvolviemento dirigido a teste para garantir um bom resultado e uma refatoração adequada.
+O Desafio 2 pode ser execuado através de prompt de comando. Para a construção do algorítimo criei quatro casos de teste e os parâmetros foram inseridos diretamente no <i>main</i>. Utilizei o desenvolvimento dirigido a testes para garantir um bom resultado e uma refatoração adequada.
   
 **OBS:** Importante instalar a biblioteca pendulum antes da execução do algorítimo.
 </p>
