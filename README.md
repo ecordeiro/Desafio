@@ -16,7 +16,9 @@
 
 :small_blue_diamond: [Pré-requesitos](#pré-requesitos)
 
-:small_blue_diamond: [Arquivos](#Arquivos)
+:small_blue_diamond: [Arquivo](#Arquivo)
+
+:small_blue_diamond: [Execução](#Execução)
 
 ## Descrição dos Desafios :star:
 
@@ -38,6 +40,7 @@ de 1 ano, foi requisitado a você a validação da seguinte hipótese:
 “O churn de novos clientes é maior do que o churn de clientes ativos”
 
 Desafio 2
+  
 Antes de apresentar as análises para a liderança, você decide se reunir com seu colega 
 de trabalho para discutirem os resultados e se estruturarem para a apresentação. No entanto, 
 para isso, é preciso identificar um horário na agenda que seja factível para ambos.
@@ -70,7 +73,17 @@ correspondem aos horários disponíveis para a reunião.
 
 :warning: [seaborn](https://seaborn.pydata.org/installing.html)
 
-## Arquivos
+## Arquivo
 
 [Aqui](https://github.com/ecordeiro/Localiza/blob/master/base_dados/base_teste.csv) é possível visualizar a **arquivo** com os dados utilizados no desafio 1.  
 
+## Execução
+
+<p align="justify">
+Para executar o Desafio 1, disponibilizei o mesmo notebook no google colab. Pode ser acessado clicando [aqui]().
+
+O Desafio 2, precisa ser execuado através de prompt de comando. Para a construção do algorítimo inicialmente eu criei quatro casos de teste e os parametros foram inseridos diretamente no main. Utilizei o desenvolviemento dirigido a teste, para garantir um bom resultado e uma refatoração adequada.
+  
+**OBS** Importante instalar a biblioteca pendulum antes da execução do algorítimo.
+  
+![image](https://user-images.githubusercontent.com/7117011/132363679-7c6ac3eb-4b1e-412e-ac40-8739655f2d55.png)
